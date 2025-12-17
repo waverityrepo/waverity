@@ -1,0 +1,2 @@
+# waverity
+waverity all projects
